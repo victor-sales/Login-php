@@ -1,0 +1,18 @@
+.card-principal {
+    position: absolute;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.card-header > h1 {
+    text-align: center;
+}
+
+.botao-login {
+    text-align: right;
+}
+
+.botao-cadastrar {
+    text-align: center;
+    margin-bottom: 0px !important;
+}
