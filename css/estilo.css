@@ -16,3 +16,18 @@
     text-align: center;
     margin-bottom: 0px !important;
 }
+
+.boas-vindas {
+    padding-top: 15px !important; 
+    padding-bottom: 0px !important;
+}
+
+.sair {
+    text-decoration: none;
+    color: white;
+}
+
+.sair:hover {
+    text-decoration: none;
+    color: white;
+}
